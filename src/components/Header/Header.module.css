@@ -1,0 +1,15 @@
+.header{
+    grid-area: h;
+    background-color: chartreuse;
+
+}
+.header img{
+    width: 55px;
+}
+.login_block{
+    float: right;
+    font-weight: bold;
+}
+.login_block a{
+    background-color: aqua;
+}
